@@ -1,0 +1,10 @@
+Hi everyone!
+
+So here is the summary of what I’ve learned on my first day of UIKit:
+
+1. Make var using var and constants using let. It’s preferable to use constant as often as possible.
+2. Strings start and end with double quotes, but if anyone want them to across multiple lines you should use three sets of double quotes.
+3. Integers hold whole numbers, doubles hold fractional numbers, and boolean hold true or false.
+4. String interpolation allows you to create strings from other variables and constants, placing their values inside your string.
+5. Swift uses type inference to assign each variable or constant a type, but you can provide explicit types if you want.
+
