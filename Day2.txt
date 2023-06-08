@@ -1,4 +1,6 @@
-You’ve made it to the end of the second part of this series, so let’s summarize:
+Hi everyone!
+
+So here is the summary of what I’ve learned on my first day of UIKit:
 
     Arrays, sets, tuples, and dictionaries let you store a group of items under a single value. They each do this in different ways, so which you use depends on the behavior you want.
     Arrays store items in the order you add them, and you access them using numerical positions.
